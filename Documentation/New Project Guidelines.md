@@ -4,6 +4,7 @@
 
 ## *0.0.0*) Each project will define guidelines around general processes, risk management, and documentation.
 ### *0.0.1*) Documentation
+Documentation should be done using Markdown and placed in a centralized location.
 ### *0.0.2*) Risk Management
 ### *0.0.3*) General Processes
 ## *1.0.0*) A
