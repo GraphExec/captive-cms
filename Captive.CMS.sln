@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{9C63DB98-3F6B-419F-8D72-C67D6B733E27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{6BEC6374-B498-4A5B-A196-4F874644AFC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{788273D3-88AC-4D75-A922-CBCFD0C8F94C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{AFD7EDF6-8629-42EC-B509-D70C8BA3E2C5}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\Domain Architecture.md = Documentation\Domain Architecture.md
+		Documentation\New Project Guidelines.md = Documentation\New Project Guidelines.md
+		Documentation\README.md = Documentation\README.md
+		Documentation\Risk Management.md = Documentation\Risk Management.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
